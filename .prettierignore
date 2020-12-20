@@ -2,8 +2,9 @@ node_modules
 *.log
 .nyc_output
 coverage
+flow-typed
 *.DS_Store
 dist
 .idea
 .vscode
-wallaby.config.js
+*.md
